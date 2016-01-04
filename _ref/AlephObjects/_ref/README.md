@@ -1,0 +1,1 @@
+These files obtained from AlephObjects/LulzBot by automatic wget scripts. They retain the upstream license, noted as GPLv3 and/or CC BY SA 4.0.

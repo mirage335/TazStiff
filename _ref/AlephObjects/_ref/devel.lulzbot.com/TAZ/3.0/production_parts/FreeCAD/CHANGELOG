@@ -1,0 +1,32 @@
+Moved Bearing_Holder_v1.1.c.fctsd as it did not function as hoped and bent the plastic too much inorder to insert a bushing.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Thu, 1 Aug 2013 18:35:19 -0600
+
+Moved Bearing_Holder_v1.1.fctsd and Bearing_Holder_v1.1.a.fctsd to ATTIC folder as both designs did not work as well as they could.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Thu, 1 Aug 2013 17:33:53 -0600
+
+Added Bearing_Holder_v1.1.c.fctsd experimental bearing holder with a partial closed back to see if it is possible to still insert the bushing without to much effort.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Thu, 1 Aug 2013 17:20:23 -0600
+
+Added Double_Bearing_Holder_v2.1.a which a double bearing version of Bearing_Holder_v1.1.b.fctsd and it has the split back for inserting the bushings.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Thu, 1 Aug 2013 16:47:25 -0600
+
+Added Bearing_Holder_v1.1.b.fctsd similar to  v1.1.a but with wider tabs to holde the bushing in and slightly wider inder diamter so the bushing does not flex the walls as much.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Tue, 30 Jul 2013 16:44:32 -0600
+
+Added Bearing_Holder_v1.1.a.fctsd another experimental bearing holder, this time the opening for the bushing is located in the back of the holder.
+
+-- Kyle Ronan <kyle@alephobjects.com>  Tue, 30 Jul 2013 13:02:33 -0600
+
+Added Bearing_Holder_v1.1.fctsd, an experimental part that is longer than v1.0 to make room for a small tab that does not allow to the bearing do not slide out. Also has a small amount of material removed from the sides of the bearing holder, so the sides flex rather than the back of the holder when a bearing is inserted.
+ 
+-- Kyle Ronan <kyle@alephobjects.com>  Tue, 23 Jul 2013 13:31:51 -0600 
+
+Added CHANGELOG
+
+ -- Jeff Moe <moe@alephobjects.com>  Tue, 09 Jul 2013 09:12:11 -0600
+
