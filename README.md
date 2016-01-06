@@ -17,6 +17,10 @@ Lock nuts used in wheel assemblies may conflict with some metal plates. Moderate
 
 Deck screws should be put right through the joints between frame and Y-axis.
 
+#FutureWork
+* Double bottom extrusions, providing much of the rigidity of a mechanical table.
+* Move motor out from under Y-axis assembly, for better use of vertical space.
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
